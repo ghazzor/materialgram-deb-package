@@ -1,0 +1,22 @@
+name: Update DEB-PKG
+
+on:
+  schedule:
+    - cron: '0 12 15,30 * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Check update
+        run: |
+          bash update.sh
+          git push
