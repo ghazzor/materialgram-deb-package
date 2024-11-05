@@ -98,8 +98,35 @@ chmod +x materialgram/usr/share/applications/*.desktop
 sed -i 's/Name=materialgram/Name=Materialgram/g' materialgram/usr/share/applications/materialgram.desktop
 dpkg-deb -b materialgram
 
+
+#!/bin/bash
+rm -rf materialgram/ usr/
+
+rm -rf apt-repo/
+mkdir -p apt-repo/{conf,incoming}
+
+cat <<EOF >> apt-repo/conf/distributions
+Origin: Materialgram
+Label: Materialgram Github Apt Repo
+Suite: stable
+Codename: bionic
+Architectures: amd64
+Components: main
+Description: Materialgram x64 github Apt repository
+EOF
+
+mv materialgram.deb apt-repo/incoming/materialgram_$VER_NO_amd64.deb
+
+cd apt-repo
+
+reprepro -V \
+    --section utils \
+    --component main \
+    --priority 0 \
+    includedeb bionic incoming/materialgram_$VER_NO_amd64.deb
+
 #Commit changes
 git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
 git config --local user.name "github-actions[bot]"
-git add latestversion materialgram.deb
+git add latestversion apt-repo/
 git commit -m "$LATEST_VERSION"

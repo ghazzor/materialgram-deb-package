@@ -1,0 +1,20 @@
+Origin: Foo
+Label: Foo Github
+Suite: stable
+Codename: bionic
+Date: Tue, 05 Nov 2024 17:19:38 UTC
+Architectures: amd64
+Components: main
+Description: Debian x64 github repository
+MD5Sum:
+ 3cf432d1c40f5ef8da1f441146f515ec 412 main/binary-amd64/Packages
+ 654533ae7a3e446a917890cc1aff656a 312 main/binary-amd64/Packages.gz
+ 4f32f20bb6d750b0b3b03ee74af2a463 124 main/binary-amd64/Release
+SHA1:
+ a44b5e37929084f8f4e377cea2cac8a61ad07c1d 412 main/binary-amd64/Packages
+ ecb19a89d698dcd771a3f2bc1e927d0e7e8a552c 312 main/binary-amd64/Packages.gz
+ f568858289a8d6704d30611ba6d8b9283ceb4cf3 124 main/binary-amd64/Release
+SHA256:
+ 832d33c6d85f73b2db856686493d5e4cb3a9e792197f395f238450d409b777c7 412 main/binary-amd64/Packages
+ 1376796b47ceabdebf4aff0c4d5f61099b13b8e45897f9fcd3694fd4d7d4f07b 312 main/binary-amd64/Packages.gz
+ 12d39f9679501d8d95a49d9c7f5f3d3a1155d939f7965e5c59cb9dfe9b974a44 124 main/binary-amd64/Release
