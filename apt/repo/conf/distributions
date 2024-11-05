@@ -1,0 +1,8 @@
+Origin: Materialgram
+Label: Materialgram Github Apt Repo
+Suite: stable
+Codename: bionic
+Architectures: amd64
+Components: main
+SignWith: yes
+Description: Materialgram x64 github Apt repository

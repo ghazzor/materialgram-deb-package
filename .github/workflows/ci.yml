@@ -16,7 +16,14 @@ jobs:
         with:
           fetch-depth: 1
 
+      - name: Configure GPG Key
+        run: |
+          echo -n "$GPG_PRIVATE_KEY" | base64 --decode | gpg --import
+        env:
+           GPG_PRIVATE_KEY: ${{ secrets.GPG_PRIVATE_KEY }}
+
       - name: Check update
         run: |
+          sudo apt install reprepro -y
           bash update.sh
           git push
