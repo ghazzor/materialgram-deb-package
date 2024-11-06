@@ -1,0 +1,39 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Materialgram
+Label: Materialgram Github Apt Repo
+Suite: stable
+Codename: bionic
+Date: Wed, 06 Nov 2024 12:36:07 UTC
+Architectures: amd64
+Components: main
+Description: Materialgram x64 github Apt repository
+MD5Sum:
+ c373d36db6a5bb7b6d4d46bc1238962b 412 main/binary-amd64/Packages
+ 95f3039ed5085d7a44bda04259a9f886 311 main/binary-amd64/Packages.gz
+ 7b84f8021148d8a3ffa02613649bc337 161 main/binary-amd64/Release
+SHA1:
+ 9bff437502f26c0ce071b19a4d2eba978ac8cb79 412 main/binary-amd64/Packages
+ 9bac562e7f0619b77f2d48a39b58379584118c27 311 main/binary-amd64/Packages.gz
+ bc2e6b7d3faef81b7a0a958c1623353386a1329b 161 main/binary-amd64/Release
+SHA256:
+ 0aa59fbe33de6d8e460d2a8e922128406ba36b9b8ac5e3334c26208e915a007d 412 main/binary-amd64/Packages
+ 032b4e3a8c05ebd8a22c7a6a95fd4c94bef21f01f6293c051ed81f2c2e177f5b 311 main/binary-amd64/Packages.gz
+ f90eecf2e158283bd8525d4ff65c2bc9744c1bd3d7a133e380b3534c1fd0d16c 161 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEsRdNtsVbsD6bRl2xBDpmKV04S/wFAmcrYrcACgkQBDpmKV04
+S/wdWQ/9FWmu7NDUPbQJ4ht9rAm5tlCOWyVbDi9Cx55iAvp/JCoEwrgh1Ik1KaNg
+YLQFVRAXxYINjstJmI8PNlP8A21Y7hjULKdNTM6jBEuxn14KegErZNjXq7VT/9vG
+SFwx1t+j7tZnLx23MCORuU/ibMJPTyiBTNrsfMbVq508VDcEjL0qVfi38xF+hwsV
+7FHYBMRhSWv5xHJRN2+hveUg2uvkowv3yXYXz84akeB5g7Ke17f3F4Oo2G8+bF4o
+8pEViq2Zh6zcpRJG4BnLn5NyoP9ZbUvCbQd3voq6W613ucery02LhkpDTE+5vcJn
+0x/4v/iwAzt82is3C/sVy5aTsN6DTCJ2YND+OvGZ5dcoXchjq2OmCAJyrXuz/IhI
+AE+SmlEadPPsyKOy/pnCenu6rF6Z6CSZI6UOt1TmkdZQ4PhDGHfDXE1ZYoIXHOEi
+fiEG8/D9RmGkfN2x3Df13WiaOQdVLIuY36D4S3X/VpKZxl4TjE04q8Ei/YQ6dUZR
+VTxlGMcwuM+XoGt0xD4nEK9X5lFXoZjN2JWSCJGP4hT21CAk2Ywu8w8/PRUaWAAH
+06bcZIrSM2iU8XLrr1xjnw6LO60RqyZQptiLFWUqstZXSHb1PCrcv88gN0m4f0Vk
+8OpRRTIGnyo9KX8zvJvkbgscOXZVyaAWkHuXhlK1W8iHda9jXW0=
+=oiLV
+-----END PGP SIGNATURE-----
