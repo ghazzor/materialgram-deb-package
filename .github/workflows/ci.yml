@@ -24,5 +24,7 @@ jobs:
 
       - name: Check update
         run: |
+          echo 0 > latestversion
+          sudo apt install reprepro -y
           bash update.sh
           git push
