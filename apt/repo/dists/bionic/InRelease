@@ -5,35 +5,35 @@ Origin: Materialgram
 Label: Materialgram Github Apt Repo
 Suite: stable
 Codename: bionic
-Date: Wed, 06 Nov 2024 12:08:34 UTC
+Date: Tue, 19 Nov 2024 04:34:18 UTC
 Architectures: amd64
 Components: main
 Description: Materialgram x64 github Apt repository
 MD5Sum:
- 84f9fa46579e0fa6bf68dd514b2c0c7d 412 main/binary-amd64/Packages
- c95f7b46f92b38ce3c72245fcf5a5a45 311 main/binary-amd64/Packages.gz
+ f2b40aff707eb619b34e98659bad602d 412 main/binary-amd64/Packages
+ e1433843b6f994dfcfc9709491ed5a50 311 main/binary-amd64/Packages.gz
  7b84f8021148d8a3ffa02613649bc337 161 main/binary-amd64/Release
 SHA1:
- 6ee70e17236cff17071b62d733f9683df03f3b63 412 main/binary-amd64/Packages
- dd0a06b5a74fc0eb97b6105837871b06b8680fa5 311 main/binary-amd64/Packages.gz
+ 4ae59998870f985c4599fcd987a727e062897812 412 main/binary-amd64/Packages
+ ef99313a1cd63991b7966a730ff7f81de1feb929 311 main/binary-amd64/Packages.gz
  bc2e6b7d3faef81b7a0a958c1623353386a1329b 161 main/binary-amd64/Release
 SHA256:
- 27396e1bb7a2f9d1e8333fce64f9e286ea44e61f8b0f7c3e82331045d7e28059 412 main/binary-amd64/Packages
- f621424d15f8809845b767f5bd3040cc15e8328bb66033a975c9078f7f20aee0 311 main/binary-amd64/Packages.gz
+ d92cdfbfbe36fe815db424a91dfeee0670141eefaa3149c884d71eb2e4a7d025 412 main/binary-amd64/Packages
+ e88f0c7c4538bfe3c4d3fe6a832a86ec58c9a76b77919c624033360a4e029c21 311 main/binary-amd64/Packages.gz
  f90eecf2e158283bd8525d4ff65c2bc9744c1bd3d7a133e380b3534c1fd0d16c 161 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEsRdNtsVbsD6bRl2xBDpmKV04S/wFAmcrXEIACgkQBDpmKV04
-S/zPNQ//Wh8ZLH7eWMvAUrw/Jkj7Ku5s6aAiqGWKAikEjpRYBKWVgd8tPe+LLgE7
-leurxb9Ra9gGdDXXhOmvHYIh0eC19pWzieDH5y9kSQtVeoJy9Ew11UsQ2qp5ga9l
-2vYqESNms3JSaw1SS3ce77VLmI+BtwlIhLrFYWYuf/3hjbr9kV7Dj4Pzh/OWHGDu
-A0gjEZ/mCv1f+CbpSmf5/yCowHBHVwJhoDoKRLWyvQQnvsRPFwIIwLRqJ+6MjY1Y
-gSYCiYuvvq8EqPiXrXXp+Lpoaq2Y9h5wz7aoQbRDujk6YZXnMAMLmvBoCle/ywco
-2QQe4oGMz8uHcOYVBD2ktSFUeLuswZvru44PXxk339slHCuitrgfz8LPyPvFeKLB
-uQ4euYL/+qXcg5kz1Any0aSD7s4jzdRZl6eQvQu23kHi+fVMICvKMLzgIXKaKLOh
-J3biOl0SlTNvbO9Lbl0KQKYKoWb74ZLU7yvhseuegqhaQoLU7d4IUJl7hwhfAn1Y
-2w4yr4WdwxSdYfOeSEtnmfqzt3OZeXsz8T8yW3+Lgv4iqIKnaREsOmmBPbldRli+
-ywbM1wMQ/g9Hl2JCH3RMoV+glfVwOB338v5tfVcGaerJe3z/T+PqH+RBozaiJR1R
-fPtoiCj5yGWJfkee9pSR1F4fuZMiztxbDA3zZEf1AcPHtE9Yw7w=
-=CJeV
+iQIzBAEBCgAdFiEEsRdNtsVbsD6bRl2xBDpmKV04S/wFAmc8FUoACgkQBDpmKV04
+S/yRrw/9HdVDCNzzymXCebltn8P+g8P6CzCJJd9TkRyy3VjfmBNYYio7p/Fkqjsz
+SFmTi4P7HlhEn8LQSaEhiPCnnBjYKvfBrTyn+CVYtAP5/MFkQ6yET6Udvwg3qFlE
+uEF/LKsXaalr+D5LZWmXRlrCcIDuSnbI7xIvq3qodMmBUkpjJ4JT3DuEgkutTJeE
+yUYkTQlOigXF1Gz1nH3FWh1oLgnVgVCkrsme8lp8fSAr2u6ArzpogLQ4G+mpnGKz
+qN2pK3jkMCgUpGl/EdzLy+98qsNDpiHUvu3AvwdOLZiVokxJ1W2aoH901EuTIXRl
+XH+8L/R9MTVl6ZOvms1I3PK/XnwvLzVcjIQy+cklJ+U5bnfig34Z/zTYWzoGsuNR
+Omnc2lgxmWrX++DKXZLVXQwZDm2J7IOHhUTecenb8h38vYNDAZOUmzlo9I8cHslQ
+rdpa8Kbugmr78fD77c1/IfLU8EQDTaPX0ge3O6XfyF8exzRumh3L6gtzxVd8WOk2
+JR+fHkAActbliKW1WNY0mzbAvw/PV5Yc+IctHRIL1x7bfT/majFuM0U2U9EKZd48
+fb5/KQKgfX+rtSZPSYoELeCs40SF4eqUtmo167kTK9jDmF9Q3Y9eTszpJG6HI5WK
+FKSZuq3dTrbZtA4CDbk8R4Z7nvBnBe5YnXH3u1iSkdxnj7Ul2zk=
+=c6V9
 -----END PGP SIGNATURE-----
