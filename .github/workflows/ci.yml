@@ -2,7 +2,7 @@ name: Update DEB-PKG
 
 on:
   schedule:
-    - cron: '30 5 * * 0,2'
+    - cron: '30 18 * * 1,6'
   workflow_dispatch:
 permissions:
   contents: write
