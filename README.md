@@ -1,7 +1,7 @@
 ### Info
 Unofficial apt repository for [materialgram](https://github.com/kukuruzka165/materialgram), offering a more convenient alternative to manually replacing the binary or flatpaks.
 
-CI is set to run automatically every 4th day.
+CI is set to run automatically on Sunday and Tuesday at midnight @IST.
 
 ### Installation
 
