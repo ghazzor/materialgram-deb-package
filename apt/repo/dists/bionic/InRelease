@@ -5,35 +5,35 @@ Origin: Materialgram
 Label: Materialgram Github Apt Repo
 Suite: stable
 Codename: bionic
-Date: Mon, 14 Apr 2025 19:03:09 UTC
+Date: Sat, 10 May 2025 18:44:06 UTC
 Architectures: amd64
 Components: main
 Description: Materialgram x64 github Apt repository
 MD5Sum:
- 6a6b4f191236aba993dc4bc0aab2f32d 414 main/binary-amd64/Packages
- 2eaff93117952d319281e0acf5f9cd65 312 main/binary-amd64/Packages.gz
+ cf8098bfaa1b83fa0563ece5afd99b4a 414 main/binary-amd64/Packages
+ b0fd7842bd6989a43fdb6b265fa5167b 312 main/binary-amd64/Packages.gz
  7b84f8021148d8a3ffa02613649bc337 161 main/binary-amd64/Release
 SHA1:
- 711cf2cca704b671f965fa7419e81583d90480ff 414 main/binary-amd64/Packages
- d1321a3588cd625f4fc008de85ed63b354584d90 312 main/binary-amd64/Packages.gz
+ f6cf6c9bcadf7115d1f2c39407b184ce047822ed 414 main/binary-amd64/Packages
+ 4c513bb82fd89e70b25020cef48b6da15940438b 312 main/binary-amd64/Packages.gz
  bc2e6b7d3faef81b7a0a958c1623353386a1329b 161 main/binary-amd64/Release
 SHA256:
- b8916a6d97254b36ec1bd8545fab1def201d7c62cc76c960fc5cf5e9e1cdb4ed 414 main/binary-amd64/Packages
- 143ff4bc4c63491b2a57cb12200edd0476c9e480f4941b7aadb13af0ac68999f 312 main/binary-amd64/Packages.gz
+ 1195a37d0284c896c26a3285523fe92d6cb47320e610f9083741e7d44d48f1ca 414 main/binary-amd64/Packages
+ 5c73ba01485e9ab2abfdab198b3bf32ab099c865bc0374b6824c3b95ecc8c36c 312 main/binary-amd64/Packages.gz
  f90eecf2e158283bd8525d4ff65c2bc9744c1bd3d7a133e380b3534c1fd0d16c 161 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEsRdNtsVbsD6bRl2xBDpmKV04S/wFAmf9W+0ACgkQBDpmKV04
-S/zEuBAAgVC9MsGS5NHH3guIiTbmTSVgbP27mD93sbssYlZ6jtRXcz/EE31gGSs7
-uEuYeEHcv3n/7bimTbI9Z+MFnOYdtLpnf3bffScLEqDYhmYKoYxZIyAo7dHYLBbc
-yj2uYybnsELmxO4nt+NRiZNHnri8EkQT2P/HpfIYQhtA9mrObl1nwEnGppUaXDf5
-ZpCAffO892rjgcwTbPquIW7Z0RwcH7zIs3+ME35V3JKeaMvuZJp8QviOwhUqJsuy
-10v7s/Y5Rbhj7pLLqQkLA3CFOzJOxgQgf6xUm7faIsSuagMzciIbzKAWikmKtNGi
-dshmSwWB5HKu+2X2xDXqrA09nSYlKXUwRWKvPs7vf7cds9JmSNG9yX5FFSdfS6+r
-RGyOA01NRGN01NaDXrpc4fuc/TNvRwoVZIrz8mYBua5r0jdF8MdXdEhfnQ6eD0u+
-LeHmy28nGZ2eNKbxhanvwIAxpeyWpAMaNnDsu3LWZ77NTGdgztsMv86FOt5krdzM
-IOQg4bK6WEphvnGGwHI0ibvUUiCSGNdA9xVuhNsl85tuOJwIrbs4sNZUHUxgqNY3
-7z/0h74t0kch4S5QvAQFgGiwuTuaol8rC4mfEfQZc9z26hj0yWnmB2tnRsMRFXAc
-cmMxnIwEcCUU+nz+9letws7px2JHQYeCwEj+0tXffs1WuL1qDcs=
-=zqEy
+iQIzBAEBCgAdFiEEsRdNtsVbsD6bRl2xBDpmKV04S/wFAmgfnnYACgkQBDpmKV04
+S/xAlw/+PgE+JmHs31+Zxv05ipRQyAqhykyV1W6jQd9HrjVkT0UBlDyvQKfOvuqu
+3xHDyK3X30KUPYO+IzbbNiLcZ0LUFiZM6x+pg36NsF7zc7VC1pJK0DpNYqedCY7Q
+5Q7iEdwa2ZMjJIPkLPd4Jeueicom+0FOfv9kK3GxCOMQsbWGUEJyPz9w82MeAT47
+miaW8AjksSeflJkSR1jMOHRSVbM5q0dOEsGtfxUzsflUnLhIWISqz4JIl9bDa37t
+85fXi5gIDlt8hhx5fp0H7kpulEjnjnTpdJ4yvLhaoDin5ydTldKWq/QZL9gL7T0f
+UJpkS097XNBwBk6qC+q1hDKhGTi2G5FU8YR0Zcsif4OY9ZUK2BFFu1cIPiDu/d6l
+WHRFkWrP8VFc86keIhCOTC00L3gaX4V1IcnXXTbcAFJl1YDeEiw8axoBspxZ88o2
+NX8gUiUa0W0JZB7BV3lNgTLysb5+S2yZL3UfAwaKSdQT4rrtScNgiHN8Ye7XB7p7
+ETaW2reav2kZthh06fS59wUWnzDzQXcGwI6uNDQIiRFK1FDLdfjOPU6dPG+8yEMP
+oZP12YvEo7uUyUsFJW0tD3VtB+mFwLvbOVn6SuahIZMkpyBnCN+dKcfSWAlsaNfn
+1wNbTYDml/9/MyERZvbWD9QB8w7dWIMOmbP1uq6T7EwEgEDp0mY=
+=+3zJ
 -----END PGP SIGNATURE-----
