@@ -1,13 +1,13 @@
 Package: materialgram
 Architecture: amd64
 Maintainer: @ghazzor
-Version: 5.14.2.1
+Version: 5.15.2.1
 Priority: 0
 Section: utils
-Filename: pool/main/m/materialgram/materialgram_5.14.2.1_amd64.deb
-Size: 68792134
-SHA256: 8a24a5a70e3fe87ff556c3f46d2a8bef6b3f41aa27082a42740ceb015d5ac011
-SHA1: 3ae67c49605910a264fb40883cdd6de699757692
-MD5sum: c23a53accdd1568052431b16a5809fdc
+Filename: pool/main/m/materialgram/materialgram_5.15.2.1_amd64.deb
+Size: 82401954
+SHA256: 22ce3241500d0a1bdd92b9c96f4074d827a22d1e53700b3b09fc4741c936611b
+SHA1: 958cf96637fa7e6f6af369689bef98ade03c6c52
+MD5sum: 82e3d193081bb89ccb711f9a83b32b6f
 Description: Unofficial Telegram Desktop with Material Design
 
