@@ -2,19 +2,19 @@ Origin: Materialgram
 Label: Materialgram Github Apt Repo
 Suite: stable
 Codename: bionic
-Date: Sat, 26 Jul 2025 18:53:06 UTC
+Date: Sat, 02 Aug 2025 11:53:30 UTC
 Architectures: amd64
 Components: main
 Description: Materialgram x64 github Apt repository
 MD5Sum:
- c1978f5f6973e47dc45d17fe7bba1b32 414 main/binary-amd64/Packages
- e6e4a783e3e129ad19ebbcfae8691232 312 main/binary-amd64/Packages.gz
+ d0db933be5822f4eb97324161d723853 412 main/binary-amd64/Packages
+ 2c4f51268c685b1b15d1aa13f3b3dd5f 311 main/binary-amd64/Packages.gz
  7b84f8021148d8a3ffa02613649bc337 161 main/binary-amd64/Release
 SHA1:
- 8ee731908eca644543b5a10417fd6ea420b5391e 414 main/binary-amd64/Packages
- 70553733356bdc82602db6ce4c065a5801badb3d 312 main/binary-amd64/Packages.gz
+ f7f7de0a4a83ed1a64cc1bc9beb68b16c7fc22ac 412 main/binary-amd64/Packages
+ 90d1d50c146a59a412b0f93ca775c11ae6dd91ca 311 main/binary-amd64/Packages.gz
  bc2e6b7d3faef81b7a0a958c1623353386a1329b 161 main/binary-amd64/Release
 SHA256:
- 0fdad8c62517800a068f1e2b1f17e5c43b5d1a906f191794afa446f09acd378e 414 main/binary-amd64/Packages
- 2dc268c9ee6166515165199a7fcd784c681e03e9546b025feb4e0358d4080d08 312 main/binary-amd64/Packages.gz
+ d17e09ecee0c19fa563e43fa4392612d8d7a2e91109f8dcb6f842d753e8a521c 412 main/binary-amd64/Packages
+ 2e99d53c9ff94366a0fed10ab2150671b1c56fcada116ad4499515734b66e68b 311 main/binary-amd64/Packages.gz
  f90eecf2e158283bd8525d4ff65c2bc9744c1bd3d7a133e380b3534c1fd0d16c 161 main/binary-amd64/Release
