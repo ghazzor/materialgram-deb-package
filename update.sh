@@ -3,7 +3,7 @@
 # Function to print usage
 usage() {
     echo "Usage: $0 <repository> <file_pattern>"
-    echo "Example: $0 owner/repo 'materialgram-v*.tar.gz'"
+    echo "Example: $0 owner/repo 'materialgram-v*.tar.zst'"
     exit 1
 }
 
@@ -16,7 +16,7 @@ usage() {
 #REPOSITORY=$1
 #FILE_PATTERN=$2
 REPOSITORY='kukuruzka165/materialgram'
-FILE_PATTERN='materialgram-v*.tar.gz'
+FILE_PATTERN='materialgram-v*.tar.zst'
 
 
 # Check if latestversion file exists
@@ -69,7 +69,7 @@ if [ -z "$DOWNLOAD_URL" ]; then
 fi
 
 # Cleanup
-rm -rf *.deb *.gz usr materialgram
+rm -rf *.deb *.zst usr materialgram
 
 # Download the file
 curl -L -o "$FILE_NAME" "$DOWNLOAD_URL"
@@ -79,7 +79,7 @@ echo "$LATEST_VERSION" > latestversion
 echo "Downloaded $FILE_NAME from the latest release ($LATEST_VERSION) of repository $REPOSITORY"
 
 rm -rf usr materialgram
-tar -xvf materialgram*.tar.gz
+tar -xvf materialgram*.tar.zst
 mkdir -p materialgram/DEBIAN
 cp -r usr materialgram/
 rm -rf materialgram/usr/share/metainfo
